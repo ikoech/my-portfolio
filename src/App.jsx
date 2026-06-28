@@ -179,7 +179,7 @@ export default function App() {
 
           {/* Social Links */}
           <div className="flex gap-4 pt-4">
-            <a href="https://github.com" className="p-3 bg-slate-700 hover:bg-slate-600 rounded-lg text-slate-300 hover:text-white transition-colors" title="GitHub">
+            <a href="https://github.com/ikoech" className="p-3 bg-slate-700 hover:bg-slate-600 rounded-lg text-slate-300 hover:text-white transition-colors" title="GitHub">
               GitHub
             </a>
             <a href="https://linkedin.com/in/irene-koech" className="p-3 bg-slate-700 hover:bg-slate-600 rounded-lg text-slate-300 hover:text-white transition-colors" title="LinkedIn">
